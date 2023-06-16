@@ -1,3 +1,6 @@
+  <!-- // Run the project by installing node.js then run the following command inside the project directory
+  // node index.j
+ -->
 # Callback Functions
 
 ## Learning Goals
